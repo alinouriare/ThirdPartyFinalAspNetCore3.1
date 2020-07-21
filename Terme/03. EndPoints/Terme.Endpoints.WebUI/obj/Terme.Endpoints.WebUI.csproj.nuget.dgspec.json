@@ -1,0 +1,415 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\03. EndPoints\\Terme.Endpoints.WebUI\\Terme.Endpoints.WebUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\Terme.Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\Terme.Framework.csproj",
+        "projectName": "Terme.Framework",
+        "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\Terme.Framework.csproj",
+        "packagesPath": "C:\\Users\\alino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.ApplicationServices\\Terme.Core.ApplicationServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.ApplicationServices\\Terme.Core.ApplicationServices.csproj",
+        "projectName": "Terme.Core.ApplicationServices",
+        "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.ApplicationServices\\Terme.Core.ApplicationServices.csproj",
+        "packagesPath": "C:\\Users\\alino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.ApplicationServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\Terme.Framework.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\Terme.Framework.csproj"
+              },
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Domain\\Terme.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Domain\\Terme.Core.Domain.csproj"
+              },
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Resources\\Terme.Core.Resources.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Resources\\Terme.Core.Resources.csproj"
+              },
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\02. Infrastructures\\Terme.Infrastructures.Data.SqlServer\\Terme.Infrastructures.Data.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\02. Infrastructures\\Terme.Infrastructures.Data.SqlServer\\Terme.Infrastructures.Data.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Domain\\Terme.Core.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Domain\\Terme.Core.Domain.csproj",
+        "projectName": "Terme.Core.Domain",
+        "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Domain\\Terme.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\alino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\Terme.Framework.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\Terme.Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Resources\\Terme.Core.Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Resources\\Terme.Core.Resources.csproj",
+        "projectName": "Terme.Core.Resources",
+        "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Resources\\Terme.Core.Resources.csproj",
+        "packagesPath": "C:\\Users\\alino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\02. Infrastructures\\Terme.Infrastructures.Data.SqlServer\\Terme.Infrastructures.Data.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\02. Infrastructures\\Terme.Infrastructures.Data.SqlServer\\Terme.Infrastructures.Data.SqlServer.csproj",
+        "projectName": "Terme.Infrastructures.Data.SqlServer",
+        "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\02. Infrastructures\\Terme.Infrastructures.Data.SqlServer\\Terme.Infrastructures.Data.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\alino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\02. Infrastructures\\Terme.Infrastructures.Data.SqlServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\Terme.Framework.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\Terme.Framework.csproj"
+              },
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Domain\\Terme.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Domain\\Terme.Core.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\03. EndPoints\\Terme.Endpoints.WebUI\\Terme.Endpoints.WebUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\03. EndPoints\\Terme.Endpoints.WebUI\\Terme.Endpoints.WebUI.csproj",
+        "projectName": "Terme.Endpoints.WebUI",
+        "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\03. EndPoints\\Terme.Endpoints.WebUI\\Terme.Endpoints.WebUI.csproj",
+        "packagesPath": "C:\\Users\\alino\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\03. EndPoints\\Terme.Endpoints.WebUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\Terme.Framework.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\00. Framework\\Terme.Framework\\Terme.Framework.csproj"
+              },
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.ApplicationServices\\Terme.Core.ApplicationServices.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.ApplicationServices\\Terme.Core.ApplicationServices.csproj"
+              },
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Domain\\Terme.Core.Domain.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Domain\\Terme.Core.Domain.csproj"
+              },
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Resources\\Terme.Core.Resources.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\01. Core\\Terme.Core.Resources\\Terme.Core.Resources.csproj"
+              },
+              "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\02. Infrastructures\\Terme.Infrastructures.Data.SqlServer\\Terme.Infrastructures.Data.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\alino\\OneDrive\\Desktop\\Terme\\Terme\\02. Infrastructures\\Terme.Infrastructures.Data.SqlServer\\Terme.Infrastructures.Data.SqlServer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

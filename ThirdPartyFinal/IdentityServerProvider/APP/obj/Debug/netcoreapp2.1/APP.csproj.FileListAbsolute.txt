@@ -1,0 +1,15 @@
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\bin\Debug\netcoreapp2.1\APP.deps.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\bin\Debug\netcoreapp2.1\APP.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\bin\Debug\netcoreapp2.1\APP.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\bin\Debug\netcoreapp2.1\APP.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\bin\Debug\netcoreapp2.1\APP.pdb
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\obj\Debug\netcoreapp2.1\APP.csproj.CoreCompileInputs.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\obj\Debug\netcoreapp2.1\APP.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\obj\Debug\netcoreapp2.1\APP.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\obj\Debug\netcoreapp2.1\APP.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\obj\Debug\netcoreapp2.1\APP.pdb
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\obj\Debug\netcoreapp2.1\APP.genruntimeconfig.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\APP\obj\Debug\netcoreapp2.1\APP.csprojAssemblyReference.cache

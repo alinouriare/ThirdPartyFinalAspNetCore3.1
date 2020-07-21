@@ -1,0 +1,10 @@
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\BeforLinq\bin\Debug\netcoreapp3.1\BeforLinq.exe
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\BeforLinq\bin\Debug\netcoreapp3.1\BeforLinq.deps.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\BeforLinq\bin\Debug\netcoreapp3.1\BeforLinq.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\BeforLinq\bin\Debug\netcoreapp3.1\BeforLinq.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\BeforLinq\bin\Debug\netcoreapp3.1\BeforLinq.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\BeforLinq\bin\Debug\netcoreapp3.1\BeforLinq.pdb
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\BeforLinq\obj\Debug\netcoreapp3.1\BeforLinq.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\BeforLinq\obj\Debug\netcoreapp3.1\BeforLinq.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\BeforLinq\obj\Debug\netcoreapp3.1\BeforLinq.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\BeforLinq\obj\Debug\netcoreapp3.1\BeforLinq.pdb

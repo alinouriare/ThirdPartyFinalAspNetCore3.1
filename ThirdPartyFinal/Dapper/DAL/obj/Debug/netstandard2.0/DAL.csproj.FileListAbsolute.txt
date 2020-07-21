@@ -1,0 +1,12 @@
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Dapper\DAL\obj\Debug\netstandard2.0\DAL.pdb

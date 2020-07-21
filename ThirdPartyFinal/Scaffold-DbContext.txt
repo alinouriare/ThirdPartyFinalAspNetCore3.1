@@ -1,0 +1,1 @@
+Scaffold-DbContext "Data Source=.;initial catalog=EFCoreNewFeature;integrated security=true;"    microsoft.entityframeworkcore.sqlserver 

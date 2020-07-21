@@ -1,0 +1,15 @@
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\bin\Debug\netcoreapp2.1\ContactApi.deps.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\bin\Debug\netcoreapp2.1\ContactApi.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\bin\Debug\netcoreapp2.1\ContactApi.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\bin\Debug\netcoreapp2.1\ContactApi.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\bin\Debug\netcoreapp2.1\ContactApi.pdb
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\obj\Debug\netcoreapp2.1\ContactApi.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\obj\Debug\netcoreapp2.1\ContactApi.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\obj\Debug\netcoreapp2.1\ContactApi.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\obj\Debug\netcoreapp2.1\ContactApi.pdb
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\obj\Debug\netcoreapp2.1\ContactApi.genruntimeconfig.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\obj\Debug\netcoreapp2.1\ContactApi.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\IdentityServerProvider\ContactApi\obj\Debug\netcoreapp2.1\ContactApi.csproj.CoreCompileInputs.cache

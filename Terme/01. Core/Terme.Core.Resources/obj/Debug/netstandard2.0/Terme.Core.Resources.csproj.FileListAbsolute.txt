@@ -1,0 +1,7 @@
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Resources\bin\Debug\netstandard2.0\Terme.Core.Resources.deps.json
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Resources\bin\Debug\netstandard2.0\Terme.Core.Resources.dll
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Resources\bin\Debug\netstandard2.0\Terme.Core.Resources.pdb
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Resources\obj\Debug\netstandard2.0\Terme.Core.Resources.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Resources\obj\Debug\netstandard2.0\Terme.Core.Resources.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Resources\obj\Debug\netstandard2.0\Terme.Core.Resources.dll
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Resources\obj\Debug\netstandard2.0\Terme.Core.Resources.pdb

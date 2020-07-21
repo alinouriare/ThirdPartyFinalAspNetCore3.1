@@ -1,0 +1,35 @@
+﻿@model List<APP.Models.Contact> 
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
+    <div class="row">
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <td>Id</td>
+                    <td>FirstName</td>
+                    <td>LastName</td>
+                    <td>OwnerId</td>
+                </tr>
+            </thead>
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td>@item.ContactId</td>
+                        <td>@item.FirstName</td>
+                        <td>@item.LastName</td>
+                        <td>@item.OwnerId</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+   
+</div>
+

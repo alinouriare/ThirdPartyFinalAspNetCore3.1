@@ -1,0 +1,29 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Terme.Core.Resources/1.0.0": {
+        "runtime": {
+          "Terme.Core.Resources.dll": {}
+        },
+        "resources": {
+          "en-US/Terme.Core.Resources.resources.dll": {
+            "locale": "en-US"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Terme.Core.Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

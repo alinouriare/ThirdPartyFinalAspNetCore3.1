@@ -1,0 +1,11 @@
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.exe
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.deps.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.runtimeconfig.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.runtimeconfig.dev.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\LINQTest\bin\Debug\netcoreapp3.1\LINQTest.pdb
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\BeforLinq\LINQTest\obj\Debug\netcoreapp3.1\LINQTest.pdb

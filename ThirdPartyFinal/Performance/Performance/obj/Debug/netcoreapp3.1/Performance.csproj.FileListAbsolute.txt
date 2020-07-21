@@ -1,0 +1,4 @@
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Performance\Performance\bin\Debug\netcoreapp3.1\Performance.exe
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Performance\Performance\obj\Debug\netcoreapp3.1\Performance.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Performance\Performance\obj\Debug\netcoreapp3.1\Performance.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\Performance\Performance\obj\Debug\netcoreapp3.1\Performance.AssemblyInfo.cs

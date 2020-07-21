@@ -1,0 +1,8 @@
+C:\Users\Alireza\source\repos\Workshop\Terme\00. Framework\Terme.Framework\bin\Debug\netstandard2.0\Terme.Framework.deps.json
+C:\Users\Alireza\source\repos\Workshop\Terme\00. Framework\Terme.Framework\bin\Debug\netstandard2.0\Terme.Framework.dll
+C:\Users\Alireza\source\repos\Workshop\Terme\00. Framework\Terme.Framework\bin\Debug\netstandard2.0\Terme.Framework.pdb
+C:\Users\Alireza\source\repos\Workshop\Terme\00. Framework\Terme.Framework\obj\Debug\netstandard2.0\Terme.Framework.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Workshop\Terme\00. Framework\Terme.Framework\obj\Debug\netstandard2.0\Terme.Framework.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Workshop\Terme\00. Framework\Terme.Framework\obj\Debug\netstandard2.0\Terme.Framework.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Workshop\Terme\00. Framework\Terme.Framework\obj\Debug\netstandard2.0\Terme.Framework.dll
+C:\Users\Alireza\source\repos\Workshop\Terme\00. Framework\Terme.Framework\obj\Debug\netstandard2.0\Terme.Framework.pdb

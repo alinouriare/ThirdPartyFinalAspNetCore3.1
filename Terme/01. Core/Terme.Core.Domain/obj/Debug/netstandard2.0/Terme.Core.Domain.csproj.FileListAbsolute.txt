@@ -1,0 +1,11 @@
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Domain\bin\Debug\netstandard2.0\Terme.Core.Domain.deps.json
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Domain\bin\Debug\netstandard2.0\Terme.Core.Domain.dll
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Domain\bin\Debug\netstandard2.0\Terme.Core.Domain.pdb
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Domain\bin\Debug\netstandard2.0\Terme.Framework.dll
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Domain\bin\Debug\netstandard2.0\Terme.Framework.pdb
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Domain\obj\Debug\netstandard2.0\Terme.Core.Domain.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Domain\obj\Debug\netstandard2.0\Terme.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Domain\obj\Debug\netstandard2.0\Terme.Core.Domain.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Domain\obj\Debug\netstandard2.0\Terme.Core.Domain.csproj.CopyComplete
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Domain\obj\Debug\netstandard2.0\Terme.Core.Domain.dll
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.Domain\obj\Debug\netstandard2.0\Terme.Core.Domain.pdb

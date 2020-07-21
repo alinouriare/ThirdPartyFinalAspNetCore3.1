@@ -1,0 +1,11 @@
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\CQRS\CommandDAL\bin\Debug\netcoreapp3.1\CommandDAL.deps.json
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\CQRS\CommandDAL\bin\Debug\netcoreapp3.1\CommandDAL.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\CQRS\CommandDAL\obj\Debug\netcoreapp3.1\CommandDAL.csprojAssemblyReference.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\CQRS\CommandDAL\obj\Debug\netcoreapp3.1\CommandDAL.AssemblyInfoInputs.cache
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\CQRS\CommandDAL\obj\Debug\netcoreapp3.1\CommandDAL.AssemblyInfo.cs
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\CQRS\CommandDAL\bin\Debug\netcoreapp3.1\CommandDAL.pdb
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\CQRS\CommandDAL\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\CQRS\CommandDAL\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\CQRS\CommandDAL\obj\Debug\netcoreapp3.1\CommandDAL.csproj.CopyComplete
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\CQRS\CommandDAL\obj\Debug\netcoreapp3.1\CommandDAL.dll
+C:\Users\AliNouri\Desktop\Core\ThirdPartyFinal\CQRS\CommandDAL\obj\Debug\netcoreapp3.1\CommandDAL.pdb

@@ -1,0 +1,13 @@
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\bin\Debug\netstandard2.0\Terme.Core.ApplicationServices.deps.json
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\bin\Debug\netstandard2.0\Terme.Core.ApplicationServices.dll
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\bin\Debug\netstandard2.0\Terme.Core.ApplicationServices.pdb
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\bin\Debug\netstandard2.0\Terme.Core.Domain.dll
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\bin\Debug\netstandard2.0\Terme.Framework.dll
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\bin\Debug\netstandard2.0\Terme.Framework.pdb
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\bin\Debug\netstandard2.0\Terme.Core.Domain.pdb
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\obj\Debug\netstandard2.0\Terme.Core.ApplicationServices.csprojAssemblyReference.cache
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\obj\Debug\netstandard2.0\Terme.Core.ApplicationServices.AssemblyInfoInputs.cache
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\obj\Debug\netstandard2.0\Terme.Core.ApplicationServices.AssemblyInfo.cs
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\obj\Debug\netstandard2.0\Terme.Core.ApplicationServices.csproj.CopyComplete
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\obj\Debug\netstandard2.0\Terme.Core.ApplicationServices.dll
+C:\Users\Alireza\source\repos\Workshop\Terme\01. Core\Terme.Core.ApplicationServices\obj\Debug\netstandard2.0\Terme.Core.ApplicationServices.pdb
